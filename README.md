@@ -31,6 +31,8 @@ I've purchased most of this on Amazon and have included relevant, but affiliate,
 - Desk - ["Live Edge" Desk from Target](https://www.target.com/p/remington-live-edge-desk-natural-christopher-knight-home/-/A-53630772)
 - Chair - [Space Air Grid Series High Back Chair with Headrest](https://amzn.to/36uyuBd)
   - I don't think it's that exact one, I got it from a friend...
+- Monitor - [Dell U3419w Ultrasharp 34-Inch Curved Monitor](https://amzn.to/2MQAQTJ)
+- Desk Lamp - [Adesso w/fabric shade](https://amzn.to/2QhMObf) + [Kasa KL110 Smart bulb](https://amzn.to/35jGhRE) (for optimal daylight hues)
 
 ### Personal
 
