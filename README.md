@@ -23,6 +23,7 @@ I've purchased most of this on Amazon and have included relevant, but affiliate,
 - iPhone holder/power - [Anker Wireless Charger, PowerWave 7.5 Stand](https://amzn.to/2qLYfhs) + [Anker Charge 3.0](https://amzn.to/36oGKms)
 - Headset - [Plantronics Blackwire C520-M](https://amzn.to/2rDFRHP)
   - Not my favorite, but came free :man_shrugging:
+- Webcam - [Logitech C920S](https://amzn.to/2S7INWr)
 - ~~Laptop stand - [Griffin GC16034](https://amzn.to/2PAqBn7)~~
 - ~~Keyboard - [Apple Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)~~
 - Trackpad - [Apple Magic Trackpad 1](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
