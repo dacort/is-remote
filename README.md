@@ -15,6 +15,10 @@ I've purchased most of this on Amazon and have included relevant, but affiliate,
 
 ![my desk](Desk.png)
 
+## Automation
+
+I am an Alexa house. And my lights are all Kasa-based. So I have a routine in Alexa to turn on my office lights as well as one titled "clock out" that turns everything off.
+
 ## Equipment
 
 ### Tech
@@ -36,15 +40,20 @@ I've purchased most of this on Amazon and have included relevant, but affiliate,
   - I don't think it's that exact one, I got it from a friend...
 - Monitor - [Dell U3419w Ultrasharp 34-Inch Curved Monitor](https://amzn.to/2MQAQTJ)
 - Desk Lamp - [Adesso w/fabric shade](https://amzn.to/2QhMObf) + [Kasa KL110 Smart bulb](https://amzn.to/35jGhRE) (for optimal daylight hues)
+- Nerdy monitor LED light strip - [TP-Link Kasa KL430](https://amzn.to/2GLfuUc)
 
 ### Personal
 
 - Slippers - [Glerups felt slippers](https://www.glerups.com/products/ladies-gents/the-slip-on-with-leather-sole/orange/)
   - My basement gets cold
 - H2O - [Travel Berkey Water Filter](https://amzn.to/2PwWqNE) and [SodaStream](https://amzn.to/2LHxAcD) for sparkly water!
+- Space Heater - [Asterion office heater](https://amzn.to/37PzIYU) to keep me toasty!
 
 ## Changelog
 
+- 2019-01-31
+    - Added webcam and LED light strip :traffic_light:
 - 2019-01-01
     - Added new monitor (:raised_hands:) and removed laptop stand and external keyboard. 
     - Added Kasa smart light bulb (:bulb:), which has a fantastic feature that matches natural light patterns from dawn to dusk.
+
