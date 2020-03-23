@@ -17,7 +17,7 @@ I've purchased most of this on Amazon and have included relevant, but affiliate,
 
 ## Automation
 
-I am an Alexa house. And my lights are all Kasa-based. So I have a routine in Alexa to turn on my office lights as well as one titled "clock out" that turns everything off.
+I am an Alexa house. And my lights are all Kasa-based. So I use Alexa to turn on a Kasa "scene" and have a routine titled "clock out" that turns everything off and stops any audio.
 
 ## Equipment
 
@@ -32,6 +32,7 @@ I am an Alexa house. And my lights are all Kasa-based. So I have a routine in Al
 - ~~Keyboard - [Apple Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)~~
 - Trackpad - [Apple Magic Trackpad 1](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
   - Link is to the newer Trackpad...I bought mine several years ago.
+- Docking station - [Kensington SD5200T Thunderbolt 3](https://amzn.to/3drrYzu)
 
 ### Office
 
@@ -51,9 +52,11 @@ I am an Alexa house. And my lights are all Kasa-based. So I have a routine in Al
 
 ## Changelog
 
-- 2019-01-31
+- 2020-03-23
+    - Add docking station
+- 2020-01-31
     - Added webcam and LED light strip :traffic_light:
-- 2019-01-01
+- 2020-01-01
     - Added new monitor (:raised_hands:) and removed laptop stand and external keyboard. 
     - Added Kasa smart light bulb (:bulb:), which has a fantastic feature that matches natural light patterns from dawn to dusk.
 
