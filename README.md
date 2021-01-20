@@ -23,20 +23,22 @@ I am an Alexa house. And my lights are all Kasa-based. So I use Alexa to turn on
 
 ### Tech
 
-- Compute - MacBook Pro (13-inch, 2017). Dual core 3.5 GHz i7, 16GB RAM
+- Compute - MacBook Pro (13-inch, 2019). Quad core 2.8 GHz i7, 16GB RAM
 - iPhone holder/power - [Anker Wireless Charger, PowerWave 7.5 Stand](https://amzn.to/2qLYfhs) + [Anker Charge 3.0](https://amzn.to/36oGKms)
-- Headset - [Plantronics Blackwire C520-M](https://amzn.to/2rDFRHP)
+- Headset - [Plantronics Blackwire 5220](https://amzn.to/3qDMGlH)
   - Not my favorite, but came free :man_shrugging:
+- [Sony WH-1000XM4 Wireless noise canceling](https://amzn.to/39MMwSh) headphones for when I need to get down and code
 - Webcam - [Logitech C920S](https://amzn.to/2S7INWr)
+  - + [Webcam Settings app](https://apps.apple.com/us/app/webcam-settings/id533696630?mt=12) to disable autofocus
 - ~~Laptop stand - [Griffin GC16034](https://amzn.to/2PAqBn7)~~
 - ~~Keyboard - [Apple Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)~~
 - Trackpad - [Apple Magic Trackpad 1](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
   - Link is to the newer Trackpad...I bought mine several years ago.
-- Docking station - [Kensington SD5200T Thunderbolt 3](https://amzn.to/3drrYzu)
+- Docking station - [CalDigit USB-C Pro Dock](https://amzn.to/2NeqVdE)
 
 ### Office
 
-- Desk - ["Live Edge" Desk from Target](https://www.target.com/p/remington-live-edge-desk-natural-christopher-knight-home/-/A-53630772)
+- Desk - [Vari Standing Desk](https://www.vari.com/electric-standing-desk-60x30/FD-ESD6030.html?o=Size:60%20inch;Color:Reclaimed%20Wood)
 - Chair - [Space Air Grid Series High Back Chair with Headrest](https://amzn.to/36uyuBd)
   - I don't think it's that exact one, I got it from a friend...
 - Monitor - [Dell U3419w Ultrasharp 34-Inch Curved Monitor](https://amzn.to/2MQAQTJ)
@@ -52,6 +54,8 @@ I am an Alexa house. And my lights are all Kasa-based. So I use Alexa to turn on
 
 ## Changelog
 
+- 2021-01-20
+    - Bring list up-to-date with new desk, docking station, and headset(s)
 - 2020-03-23
     - Add docking station
 - 2020-01-31
